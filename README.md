@@ -84,6 +84,6 @@ Developed by Rahul Kumar
 
 Aspiring Data Analyst / Computer Science & Engineering Student
 
-Connect on LinkedIn:https://www.linkedin.com/in/rahul-raigar-data3293/
+Connect on LinkedIn:[https://www.linkedin.com/in/rahul-raigar-data3293/]
 
-Email: rahulraiger13@gmail.com
+Email: [rahulraiger13@gmail.com]
