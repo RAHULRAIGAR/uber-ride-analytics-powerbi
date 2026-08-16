@@ -54,12 +54,9 @@ The dashboard consists of three core interactive views:
 
 ## 🖼 Dashboard Screenshots
 
-![Executive Overview](<img width="1371" height="790" alt="overview" src="https://github.com/user-attachments/assets/c31e326c-ddaf-49e3-aa26-3c85136af93d" />
-)
-![Trip Analysis](<img width="1370" height="787" alt="trip_analysis" src="https://github.com/user-attachments/assets/78cb3cd6-b302-4a00-bc6a-f6ceaf7eb300" />
-)
-![Vehicle Analysis](<img width="1355" height="792" alt="vehicle_analysis" src="https://github.com/user-attachments/assets/2b19ea00-b919-4e4f-866b-afb26fd8fb72" />
-      )
+![Executive Overview](<img width="1371" height="790" alt="overview" src="https://github.com/user-attachments/assets/c31e326c-ddaf-49e3-aa26-3c85136af93d" />)
+![Trip Analysis](<img width="1370" height="787" alt="trip_analysis" src="https://github.com/user-attachments/assets/78cb3cd6-b302-4a00-bc6a-f6ceaf7eb300" />)
+![Vehicle Analysis](<img width="1355" height="792" alt="vehicle_analysis" src="https://github.com/user-attachments/assets/2b19ea00-b919-4e4f-866b-afb26fd8fb72" />)
 
 ### 3️⃣ Vehicle & Revenue Analysis Page
 * **Performance by Vehicle Type**: Comparative analysis showing total volume vs. revenue generated per category.
