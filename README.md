@@ -1,6 +1,6 @@
 # 🚗 Uber Ride Analytics Dashboard
 
-An interactive and comprehensive **Power BI Data Analytics Project** designed to analyze ride-hailing performance, revenue trends, trip statuses, and vehicle metrics.
+An interactive and comprehensive Power BI Data Analytics Project designed to analyze ride-hailing performance, revenue trends, trip statuses, and vehicle metrics.
 
 ---
 
@@ -40,13 +40,9 @@ DIVIDE(
 // Average Fare Per Trip
 Average Fare = AVERAGE(Raw_Data[Fare_Amount])
 '''
+### 👨‍💻 Author
+Developed by **Rahul Kumar**  
+*Aspiring Data Analyst / Computer Science & Engineering Student*  
 
-👨‍💻 Author
-Developed by Rahul Kumar
-
-Aspiring Data Analyst / Computer Science & Engineering Student
-
-LinkedIn: Rahul Raigar 
-Email: rahulraigar13@gmail.com
-* <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rahul-raigar-data3293/">Rahul Raigar</a>
-* <b>Email:</b> <a href="mailto:rahulraigar13@gmail.com">rahulraigar13@gmail.com</a>
+* **LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
+* **Email:** [rahulraigar13@gmail.com](mailto:rahulraigar13@gmail.com)
