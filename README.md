@@ -90,10 +90,9 @@ DIVIDE(
 Average Fare = AVERAGE(Raw_Data[Fare_Amount])
 
 
-Developed by Rahul Kumar 
+### 👨‍💻 Author
+Developed by **Rahul Kumar**  
+*Aspiring Data Analyst / Computer Science & Engineering Student*  
 
-Aspiring Data Analyst / Computer Science & Engineering Student
-
-Connect on LinkedIn:[https://www.linkedin.com/in/rahul-raigar-data3293/]
-
-Email: [rahulraiger13@gmail.com]
+* **LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
+* **Email:** [rahulraigar13@gmail.com](mailto:rahulraigar13@gmail.com)
