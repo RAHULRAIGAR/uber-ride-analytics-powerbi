@@ -49,6 +49,12 @@ The dashboard consists of three core interactive views:
 * **Payment Type Distribution**: Pie visual highlighting preferences for Cash, Card, UPI, and Digital Wallet.
 * **Cancellation Rate by Vehicle Type**: Bar chart comparing cancellation tendencies across Uber Auto, Uber Go, Uber Moto, Uber Premier, and Uber XL.
 * **Average Distance by Vehicle Type**: Horizontal bar visual comparing trip length across vehicle classes.
+  
+## 🖼 Dashboard Screenshots
+
+![Executive Overview](Executive_Overview.png)
+![Trip Analysis](Trip_Analysis.png)
+![Vehicle Analysis](Vehicle_Analysis.png)
 
 ### 3️⃣ Vehicle & Revenue Analysis Page
 * **Performance by Vehicle Type**: Comparative analysis showing total volume vs. revenue generated per category.
