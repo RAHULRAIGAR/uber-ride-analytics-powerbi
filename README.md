@@ -46,3 +46,9 @@ Developed by **Rahul Kumar**
 
 * **LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
 * **Email:** [rahulraigar13@gmail.com](mailto:rahulraigar13@gmail.com)
+---
+
+## 📥 How to View & Edit Dashboard
+
+1. Download the `uber.pbix` file directly from this repository.
+2. Open it in **Power BI Desktop** to inspect data modeling, dynamic DAX measures, and interactive visuals.
