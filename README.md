@@ -89,10 +89,9 @@ DIVIDE(
 // Average Fare Per Trip
 Average Fare = AVERAGE(Raw_Data[Fare_Amount])
 
-
 ### 👨‍💻 Author
 Developed by **Rahul Kumar**  
 *Aspiring Data Analyst / Computer Science & Engineering Student*  
 
-* **LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
-* **Email:** [rahulraigar13@gmail.com](mailto:rahulraigar13@gmail.com)
+* **LinkedIn:** <a href="https://www.linkedin.com/in/rahul-raigar-data3293/">Rahul Raigar</a>
+* **Email:** <a href="mailto:rahulraigar13@gmail.com">rahulraigar13@gmail.com</a>
