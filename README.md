@@ -214,13 +214,17 @@ Exploratory Data Analysis
 Data-Driven Decision Making
 ---
 ```
-🔗 Project Links
+---
+
+## 🔗 Project Links
 
 📊 **Project:** [Uber Ride Analytics Dashboard](https://github.com/RAHULRAIGAR/uber-ride-analytics-powerbi)
 
 📁 **GitHub Repository:** [RAHULRAIGAR/uber-ride-analytics-powerbi](https://github.com/RAHULRAIGAR/uber-ride-analytics-powerbi)
+
 ---
-# 👨‍💻 Author
+
+### 👨‍💻 Author
 
 **Rahul Raigar**
 
@@ -229,7 +233,9 @@ Aspiring Data Analyst | Computer Science & Engineering Student
 🔗 **LinkedIn:** [Rahul Raigar](https://www.linkedin.com/in/rahul-raigar-data3293/)
 
 📧 **Email:** [rahulraigar13@gmail.com](mailto:rahulraigar13@gmail.com)
+
 ---
-⭐ If you found this project useful, consider starring the repository.
+
+⭐ **If you found this project useful, consider starring the repository.**
 
 Built with Power BI | Turning ride data into actionable business insights.
